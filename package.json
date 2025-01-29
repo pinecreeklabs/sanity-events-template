@@ -36,5 +36,8 @@
     "prettier": "^3.1.0",
     "turbo": "^2.0.0"
   },
-  "packageManager": "npm@10.7.0"
+  "packageManager": "npm@10.7.0",
+  "dependencies": {
+    "sst": "^3.6.26"
+  }
 }
